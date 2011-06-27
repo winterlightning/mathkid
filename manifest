@@ -1,0 +1,20 @@
+#appname: mathkid
+#publisher: raywang
+#url: http://
+#image: default_app_logo.png
+#appid: app.mathkid
+#desc: undefined
+#type: desktop
+#guid: b7dfe82f-922e-40ff-8508-82ce0e47a448
+runtime:1.2.0.RC1
+tiapp:1.2.0.RC1
+tifilesystem:1.2.0.RC1
+tiplatform:1.2.0.RC1
+tiui:1.2.0.RC1
+ticodec:1.2.0.RC1
+tidatabase:1.2.0.RC1
+timedia:1.2.0.RC1
+timonkey:1.2.0.RC1
+tinetwork:1.2.0.RC1
+tiprocess:1.2.0.RC1
+tiworker:1.2.0.RC1
